@@ -1,0 +1,5 @@
+2026-06-27 14:04:00 [main] INFO  com.orangehrm.uitests.BaseTest.setup - Initialized driver
+2026-06-27 14:04:57 [main] INFO  com.orangehrm.uitests.BaseTest.setup - Browser navigated to : https://opensource-demo.orangehrmlive.com
+2026-06-27 14:05:14 [main] INFO  com.orangehrm.uitests.BaseTest.setup - Initialized driver
+2026-06-27 14:05:17 [main] INFO  com.orangehrm.uitests.BaseTest.setup - Browser navigated to : https://opensource-demo.orangehrmlive.com
+2026-06-27 14:05:17 [main] INFO  com.orangehrm.uitests.BaseTest.setup - Browser is in maximized mode
