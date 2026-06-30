@@ -28,6 +28,7 @@ public class LoginTest extends BaseTest {
         softassert.assertAll();
     }
 
+    //Invalid credential verification
     @Test(dataProvider = "invalidCredentials",priority = 2,groups={"smoke"})
     public void LoginWithInvalidCredentials(String username,String password){
         loginpage=new LoginPage(driver);
